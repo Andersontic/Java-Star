@@ -6,6 +6,6 @@ public class repositorio{
 
     /*Este es un comentario inicial de la rama Carlos del proyecto Java-Star */
     System.out.println("Hola soy Daniel Ortega Herrera"); 
-    /*Modificando este archivo repositorio.java */
+    /*Modificando el archivo repositorio.java */
  }
 }
